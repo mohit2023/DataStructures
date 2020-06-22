@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587502495 source:e:\c++\datastructures\stackusingarr\stack.cpp
+
+1587502605 source:e:\c++\datastructures\stackusingarr\main.cpp
+	<iostream>
+	"stack.cpp"
+
+1587502495 e:\c++\datastructures\stackusingarr\stack.cpp
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587372806 source:e:\c++\datastructures\hashmap\node.cpp
+	<string>
+
+1587378360 source:e:\c++\datastructures\hashmap\main.cpp
+	<iostream>
+	"mapClass.cpp"
+
+1587378553 e:\c++\datastructures\hashmap\mapclass.cpp
+	"node.cpp"
+
+1587372806 e:\c++\datastructures\hashmap\node.cpp
+	<string>
+
+1587378553 source:e:\c++\datastructures\hashmap\mapclass.cpp
+	"node.cpp"
+

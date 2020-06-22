@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587507168 source:e:\c++\datastructures\queueusingll\main.cpp
+	<iostream>
+	"queue.cpp"
+
+1587507047 e:\c++\datastructures\queueusingll\queue.cpp
+	"node.cpp"
+
+1587506564 e:\c++\datastructures\queueusingll\node.cpp
+	<iostream>
+
+1587506564 source:e:\c++\datastructures\queueusingll\node.cpp
+	<iostream>
+
+1587507047 source:e:\c++\datastructures\queueusingll\queue.cpp
+	"node.cpp"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587503581 source:e:\c++\datastructures\stackusingll\node.cpp
+	<iostream>
+
+1587503620 source:e:\c++\datastructures\stackusingll\main.cpp
+	<iostream>
+	"stack.cpp"
+
+1587503603 e:\c++\datastructures\stackusingll\stack.cpp
+	"node.cpp"
+
+1587503581 e:\c++\datastructures\stackusingll\node.cpp
+	<iostream>
+
+1587503603 source:e:\c++\datastructures\stackusingll\stack.cpp
+	"node.cpp"
+

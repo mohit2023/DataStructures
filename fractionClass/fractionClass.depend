@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587562501 source:e:\c++\datastructures\fractionclass\fraction.cpp
+	<iostream>
+
+1587562509 source:e:\c++\datastructures\fractionclass\main.cpp
+	<iostream>
+	"fraction.cpp"
+
+1587562501 e:\c++\datastructures\fractionclass\fraction.cpp
+	<iostream>
+

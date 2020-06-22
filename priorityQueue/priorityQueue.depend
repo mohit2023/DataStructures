@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587473390 source:e:\c++\datastructures\priorityqueue\main.cpp
+	<iostream>
+	"priority.cpp"
+
+1587473568 e:\c++\datastructures\priorityqueue\priority.cpp
+	<vector>
+
+1587473568 source:e:\c++\datastructures\priorityqueue\priority.cpp
+	<vector>
+

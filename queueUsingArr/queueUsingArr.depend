@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587504799 source:e:\c++\datastructures\queueusingarr\main.cpp
+	<iostream>
+	"queue.cpp"
+
+1587505843 e:\c++\datastructures\queueusingarr\queue.cpp
+
+1587505843 source:e:\c++\datastructures\queueusingarr\queue.cpp
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587379216 source:e:\c++\datastructures\trie\trienode.cpp
+	<iostream>
+
+1587229400 source:e:\c++\datastructures\trie\main.cpp
+	<iostream>
+	"Trie.cpp"
+
+1587379169 e:\c++\datastructures\trie\trie.cpp
+	"TrieNode.cpp"
+	<string>
+
+1587379216 e:\c++\datastructures\trie\trienode.cpp
+	<iostream>
+
+1587379169 source:e:\c++\datastructures\trie\trie.cpp
+	"TrieNode.cpp"
+	<string>
+

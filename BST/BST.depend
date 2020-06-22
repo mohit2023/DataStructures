@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587486059 source:e:\c++\datastructures\bst\bstnode.cpp
+	<iostream>
+
+1587486112 source:e:\c++\datastructures\bst\bst.cpp
+	"BSTNode.cpp"
+
+1587486059 e:\c++\datastructures\bst\bstnode.cpp
+	<iostream>
+
+1587485957 source:e:\c++\datastructures\bst\main.cpp
+	<iostream>
+	"bst.cpp"
+
+1587486112 e:\c++\datastructures\bst\bst.cpp
+	"BSTNode.cpp"
+
